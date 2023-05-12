@@ -35,7 +35,7 @@ export const MultipleCodeEditorHeader = styled.div`
 export const MultipleCodeEditorLayout = styled.div`
   display: flex;
   flex-direction: column;
-  width: 47%;
+  width: 50%;
   height: 100%;
   border-radius: 8px;
   background-color: #fff;

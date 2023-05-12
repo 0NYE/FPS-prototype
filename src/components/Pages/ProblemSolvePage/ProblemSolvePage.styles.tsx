@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const ProblemSolvePageMain = styled.main`
   display: flex;
   justify-content: space-between;
+  gap: 8px;
   height: calc(100% - 60px);
 `
 
