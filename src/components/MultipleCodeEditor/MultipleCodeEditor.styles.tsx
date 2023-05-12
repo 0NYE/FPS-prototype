@@ -38,6 +38,6 @@ export const MultipleCodeEditorLayout = styled.div`
   width: 47%;
   height: 100%;
   border-radius: 8px;
-  border: 1px solid black;
+  background-color: #fff;
   overflow: hidden;
 `;
