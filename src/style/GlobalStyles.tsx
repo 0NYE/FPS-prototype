@@ -12,6 +12,9 @@ const GlobalStyles = createGlobalStyle`
     height: 100vh;
     font-family: 'Noto Sans KR', sans-serif;
   }
+  #root {
+    height: 100vh;
+  }
 `;
 
 export default GlobalStyles;
