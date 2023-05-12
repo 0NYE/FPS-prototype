@@ -1,9 +1,9 @@
-import { HeaderContainer } from "@/components/Header/Header.styles";
+import { HeaderLayout } from "@/components/Header/Header.styles";
 
 const Header = () => {
-  return <HeaderContainer>
+  return <HeaderLayout>
     <p className="title">문제 이름</p>
-  </HeaderContainer>;
+  </HeaderLayout>;
 };
 
 export default Header;
